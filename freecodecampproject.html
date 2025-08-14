@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Discover amazing movies with our interactive movie database">
+        <meta name="keywords" content="movies, films, cinema, database, search">
+        <title>Welcome To Nancy's Movie Database</title>
+        <link rel="stylesheet" href="projectstyle.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    </head>
+    <body>
+        <header>
+            <nav class="topnav" role="navigation" aria-label="Main navigation">
+                <a class="active" href="#" aria-label="Home">
+                    <i class="fas fa-film" aria-hidden="true"></i>
+                    Movie Site
+                </a>
+                <div class="search-container">
+                    <form role="search" id="form" aria-label="Search movies">
+                        <input type="search" id="query" name="q" placeholder="Search movies..." aria-label="Search movies">
+                        <button type="submit" aria-label="Search">
+                            <i class="fas fa-search" aria-hidden="true"></i>
+                        </button>
+                    </form>
+                </div>
+            </nav>
+        </header>
+        
+        <main>
+            <section class="hero" aria-labelledby="hero-title">
+                <h1 id="hero-title">Discover Your Next Favorite Movie</h1>
+                <p>Explore thousands of movies with our interactive database</p>
+            </section>
+            
+            <div class="container">
+                <aside class="filters" aria-label="Movie filters">
+                    <h2>Filter Movies</h2>
+                    <div class="filter-group">
+                        <label for="genre-filter">Genre:</label>
+                        <select id="genre-filter" aria-label="Filter by genre">
+                            <option value="">All Genres</option>
+                            <option value="28">Action</option>
+                            <option value="35">Comedy</option>
+                            <option value="18">Drama</option>
+                            <option value="27">Horror</option>
+                            <option value="10749">Romance</option>
+                            <option value="878">Sci-Fi</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="year-filter">Year:</label>
+                        <input type="range" id="year-filter" min="1900" max="2024" value="2024" aria-label="Filter by year">
+                        <span id="year-display">2025</span>
+                    </div>
+                    <button id="apply-filters" class="btn-primary">Apply Filters</button>
+                </aside>
+                
+                <section class="content" aria-labelledby="movies-section">
+                    <h2 id="movies-section">Popular Movies</h2>
+                    <div class="loading" id="loading" aria-hidden="true">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <span>Loading movies...</span>
+                    </div>
+                    <div id="movies-container" class="movies-grid" role="region" aria-live="polite">
+                        <!-- Movies will be dynamically loaded here -->
+                    </div>
+                    <div class="pagination" role="navigation" aria-label="Pagination">
+                        <button id="prev-page" class="btn-secondary" disabled>
+                            <i class="fas fa-chevron-left" aria-hidden="true"></i>
+                            Previous
+                        </button>
+                        <span id="page-info">Page 1</span>
+                        <button id="next-page" class="btn-secondary">
+                            Next
+                            <i class="fas fa-chevron-right" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                </section>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; Built with accessibility in mind.</p>
+            <div class="accessibility-controls">
+                <button id="toggle-theme" aria-label="Toggle dark/light theme">
+                    <i class="fas fa-adjust" aria-hidden="true"></i>
+                </button>
+                <button id="increase-font" aria-label="Increase font size">
+                    <i class="fas fa-plus" aria-hidden="true"></i>
+                </button>
+                <button id="decrease-font" aria-label="Decrease font size">
+                    <i class="fas fa-minus" aria-hidden="true"></i>
+                </button>
+            </div>
+        </footer>
+        
+        <script src="projectscript.js"></script>
+    </body>
+</html>
