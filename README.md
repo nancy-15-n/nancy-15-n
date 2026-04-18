@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nancy
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently upgrading my skills in data analyst
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me - follow me on LinkedIn: @Nancysharma
 - 😄 Pronouns: She/Her
