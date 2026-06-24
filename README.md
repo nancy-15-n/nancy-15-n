@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @nancy
-- 👀 I’m interested in programming 
-- 🌱 I’m currently upgrading my skills in data analyst
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me - follow me on LinkedIn: @Nancysharma
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
-
-<!---
-nancy-15-n/nancy-15-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Nancy Sharma  
+👀 Passionate about programming & technology  
+🌱 Currently upgrading my skills in Data Analysis  
+💞️ Open to collaborations on projects and learning opportunities
+😄 Pronouns: She/Her  
+⚡ Fun fact: I love turning raw data into meaningful insights!
