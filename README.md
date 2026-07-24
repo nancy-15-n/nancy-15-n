@@ -24,7 +24,6 @@
 📊 Passionate about **Data Analysis, AI, and Machine Learning**  
 🤖 Currently exploring **Python, Pandas, Plotly, and AI-driven insights**  
 💡 Love transforming **raw data into meaningful stories**  
-📬 Reach me at **nancy.sharma@example.com**  
 🤝 Open to **collaborations, internships, and research** in AI/Data Science  
 
 ---
