@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nancy+Sharma;Data+Analyst+%7C+AI+Enthusiast;B.Tech+CSE+@+DCRUST;Transforming+Data+into+Insights..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&color=FF00FF,00FFFF,FFD700&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nancy+Sharma;Data+Analyst+%7C+AI+Enthusiast;B.Tech+CSE+@+DCRUST;Transforming+Data+into+Insights..." />
 </h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nancy-sharma-778b59315?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
