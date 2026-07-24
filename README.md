@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="portfolio.png" alt="Nancy Sharma GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Nancy Sharma</h1>
 <h3 align="center">Data Analyst | AI Enthusiast | B.Tech CSE @ DCRUST</h3>
 
