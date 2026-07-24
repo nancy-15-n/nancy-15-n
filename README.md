@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="portfolio.png" alt="Nancy Sharma GitHub Banner" width="100%">
+  <img src="profile.png" alt="Nancy Sharma GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Nancy Sharma</h1>
 <h3 align="center">Data Analyst | AI Enthusiast | B.Tech CSE @ DCRUST</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nancysharma" target="_blank">
+  <a href="https://www.linkedin.com/in/nancy-sharma-778b59315?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:nancy.sharma@example.com">
+  <a href="mailto:nancysharmagdscehce@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://nancysharma.github.io/portfolio" target="_blank">
+  <a href="https://github.com/nancy-15-n" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -59,8 +59,8 @@ I turn **complex datasets into clear, actionable insights** that drive smarter d
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://github.com/nancysharma" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nancysharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nancy.sharma@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/nancy-15-n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nancy-sharma-778b59315?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nancysharmagdscehce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
